@@ -1,0 +1,22 @@
+{
+  "name": "mac_site_images",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arthaskj/mac_site_images.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arthaskj/mac_site_images/issues"
+  },
+  "homepage": "https://github.com/Arthaskj/mac_site_images#readme",
+  "devDependencies": {
+    "images": "^3.2.4"
+  }
+}
