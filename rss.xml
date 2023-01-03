@@ -1,21 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-<channel>
-<title>JKE影视下载</title>
-<link>https://mac.arthaskj.top</link>
-<description>JKE的个人下载。</description>
-<atom:link href="https://mac.arthaskj.top/rss" rel="self"></atom:link>
-<language>zh-cn</language>
-<copyright>© 2022 JKE下载站(https://mac.arthaskj.top)</copyright>
-<lastBuildDate>Thu, 29 Dec 2022 14:34:44 +0800</lastBuildDate>
-<ttl>180</ttl>
-<item>
-<title>《回来的女儿》第二集中播放的《魔方大厦》是第几集，说的什么内容？</title>
-<link>magnet:?xt=urn:btih:26da4b5e04c0d435cc8b7b44515e54337c9aeb33&amp;dn=%E5%9B%9E%E6%9D%A5%E7%9A%84%E5%A5%B3%E5%84%BF%E7%AC%AC7%E9%9B%86.mp4</link>
-<description>下载</description>
-			<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">JKE</dc:creator>
-			<pubDate>Thu, 29 Dec 2022 14:34:44 +0800</pubDate>
-			<guid>39fc90ba-1d32-4d06-517c-ed603cfb20c1</guid>
-			</item>
-			</channel>
-			</rss>
+  <channel>
+    <title>JKE影视下载</title>
+    <link>https://mac.arthaskj.top</link>
+    <description>JKE的个人下载。</description>
+    <atom:link href="https://mac.arthaskj.top/rss" rel="self"/>
+    <language>zh-cn</language>
+    <copyright>© 2022 JKE下载站(https://mac.arthaskj.top)</copyright>
+    <lastBuildDate>Thu, 29 Dec 2022 14:34:44 +0800</lastBuildDate>
+    <ttl>180</ttl>
+    <item>
+      <dc:creator xmlns:dc="111">JKE</dc:creator>
+      <description>下载</description>
+      <guid>11111111111111111</guid>
+      <link>http://192.168.1.111</link>
+      <pubData>Tue Jan 03 2023 16:15:49 GMT+0800 (中国标准时间)</pubData>
+      <title>测试数据我的天o</title>
+    </item>
+    <item>
+      <title>《回来的女儿》第二集中播放的《魔方大厦》是第几集，说的什么内容？</title>
+      <link>magnet:?xt=urn:btih:26da4b5e04c0d435cc8b7b44515e54337c9aeb33&amp;dn=%E5%9B%9E%E6%9D%A5%E7%9A%84%E5%A5%B3%E5%84%BF%E7%AC%AC7%E9%9B%86.mp4</link>
+      <description>下载</description>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">JKE</dc:creator>
+      <pubDate>Thu, 29 Dec 2022 14:34:44 +0800</pubDate>
+      <guid>39fc90ba-1d32-4d06-517c-ed603cfb20c1</guid>
+    </item>
+  </channel>
+</rss>
